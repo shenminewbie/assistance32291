@@ -1,0 +1,14 @@
+{
+  "name": "assistance32291",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "forex factory ⭐ how to read forex factory calendar",
+  "keywords": [
+    "forex factory ⭐ how to read forex factory calendar"
+  ],
+  "repository": "https://github.com/shenminewbie/assistance32291",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
